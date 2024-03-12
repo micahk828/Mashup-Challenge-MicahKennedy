@@ -1,0 +1,24 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+img {
+  width: 150px;
+  height: 150px;
+  border: 3px solid #00BBF9;
+  box-shadow: 1px 3px 30px 1px #78e8e8;
+  transition: 4ms;
+}
+
+img:hover{
+  width: 400px;
+  height: 400px;
+}
+
+body{content-align: center;text-align:center;background-color: #2eeef5;}
+
+h1{font-size:2em;color:#FEBA9D;}
+h2{font-size:1.5em;color:#EA526F;}
+h3{font-size:1em;color:#f49c76;}
+h5{font-weight: lighter;color:#F15BB5;}
+
+p{font-size: 0.95em;color:#e1be89;}
